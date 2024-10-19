@@ -1,7 +1,7 @@
 # Responsive Gym Website
 
 Welcome to CodeFit gym website! This project showcases a comprehensive gym platform that provides users with detailed exercise information, package details, and a BMI calculator. The website is fully responsive and integrates an email API for subscribing to updates.
-[!](.assests/sample.png)
+[!](sample.png)
 ## Features
 
 - **Responsive Design**: The website is designed to work seamlessly across various devices, ensuring an optimal user experience on desktops, tablets, and smartphones.
