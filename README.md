@@ -3,10 +3,10 @@ Below is a generated new README file for your GitHub repository, incorporating t
 **New Repository README**
 
 # **Responsive Gym Website: CodeFit**
-==================================================================================================================================
+============================================================================================
 
 **Live Website:** [**https://prateekraiger.github.io/CodeFit-gym-website/**](https://prateekraiger.github.io/CodeFit-gym-website/)
-[!alttext](sample.png)
+![alt text](sample.png)
 
 **Repository Overview**
 ------------------------
