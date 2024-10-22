@@ -1,7 +1,3 @@
-Below is a generated new README file for your GitHub repository, incorporating the requested updates, including the live website link:
-
-**New Repository README**
-
 # **Responsive Gym Website: CodeFit**
 ===========================================================================
 
