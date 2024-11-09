@@ -50,10 +50,6 @@ Contributions are welcome! To contribute, please follow these steps:
 4. **Push** your changes to your fork.
 5. **Submit a pull request**, detailing your contributions.
 
-**Acknowledgments**
-------------------
-
-* Special thanks to Bedimcode for their invaluable support and resources.
 
 **Issues and Feedback**
 -----------------------
